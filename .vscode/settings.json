@@ -1,0 +1,18 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "rainbowTags.allowEverywhere": true,
+    "rainbowTags.colors": [
+
+        "#e6b422",
+        "#c70067",
+        "#00a960",
+        "#fc7482",
+        "#00ffa0",
+        "#f24bcb"
+        
+    ],
+}
