@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap'); */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'ZCOOL KuaiLe', cursive; */
+}
+
+.container{
+    width: 80%;
+    margin: 100px auto;
+}
+
+.title{
+    width: 60%;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.title h4{
+    color: green;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.title p{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.title hr{
+    width: 60%;
+    margin: 40px auto;
+}
+
+.carts{
+    width: 90%;
+    margin: auto;
+}
+
+.left{
+    width: 46%;
+    float: left;
+    
+}
+
+.right{
+    width: 46%;
+    margin-right: 4%;
+    float: right;
+    
+}
+
+.cart img{
+    width: 80px;
+}
+
+.content{
+    width: 70%;
+    float: right;
+}
+
+.cls{
+    clear: right;
+}
