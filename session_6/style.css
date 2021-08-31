@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    height: 900px;
+    position: relative;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(120, 29, 219, 0.5), rgba(120, 29, 219,0.5)),url(/session_6/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.content{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    width: 50%;
+    text-align: center;
+    color: white;
+}
+
+.content h1{
+    font-size: 50px;
+    line-height: 1.5;
+}
+
+.content p{
+    font-size: 20px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}
+
+.content button{
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgba(120, 29, 219, 0.3);
+    border: 1px solid white;
+}
+
